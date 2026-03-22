@@ -4,24 +4,24 @@
 
 - [页面未找到](https://coolguy2020.github.io/jujidata-docs/404/): 您正在寻找的页面不存在或已被移动。请检查网址，使用导航浏览各个板块，或返回首页。
 - [隐私政策](https://coolguy2020.github.io/jujidata-docs/privacy/): 了解我们如何收集、使用和保护您的个人数据，您对信息拥有的权利，以及如何联系我们。
-- [Blog](https://coolguy2020.github.io/jujidata-docs/blog/): Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
-- [Docs](https://coolguy2020.github.io/jujidata-docs/docs/): Browse guides and reference documentation that explain how to use this site’s features, configure Doks, and publish clear, user-focused content.
+- [博客](https://coolguy2020.github.io/jujidata-docs/blog/): Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
+- [文档](https://coolguy2020.github.io/jujidata-docs/docs/): Browse guides and reference documentation that explain how to use this site’s features, configure Doks, and publish clear, user-focused content.
 
-## Blog
+## 博客
 
 > Read product updates, release highlights, and practical tips that explain what’s new, why it matters, and how to get the most value from this project.
 
 - [Example Post](https://coolguy2020.github.io/jujidata-docs/blog/example-post/): Learn how to write clear, structured product update posts that explain what changed, why it matters, and how users can successfully adopt new features.
 
-## Docs
+## 文档
 
 > Browse guides and reference documentation that explain how to use this site’s features, configure Doks, and publish clear, user-focused content.
 
-- [Guides](https://coolguy2020.github.io/jujidata-docs/docs/guides/): Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence.
+- [指南](https://coolguy2020.github.io/jujidata-docs/docs/guides/): Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence.
 - [Reference](https://coolguy2020.github.io/jujidata-docs/docs/reference/): Find detailed, structured reference pages that explain concepts, configuration options, and behavior so you can quickly look up precise information as you work.
 - [Resources](https://coolguy2020.github.io/jujidata-docs/docs/resources/): Discover curated links to official docs, tools, templates, and learning materials that help you deepen your knowledge and get more from this project.
 
-### Guides
+### 指南
 
 > Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence.
 

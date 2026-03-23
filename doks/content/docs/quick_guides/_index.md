@@ -6,6 +6,7 @@ date: 2026-03-22T08:00:00+08:00
 lastmod: 2026-03-22T08:00:00+08:00
 draft: false
 weight: 102
+layout: "list"
 menu:
   sidebar_docs:
     parent: "快速上手指南" # This should match the name in your TOML

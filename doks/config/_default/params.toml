@@ -15,8 +15,12 @@ mathEngine = "KaTeX" # "KaTeX" (default) or "MathJax"
 
 # Doks (@thulite/doks-core)
 [doks]
-  # 确保导航树的深度足够显示二级目录
-  sectionNavHierarchyLevels = 2
+  # 确保搜索是开启的
+  flexsearch = true
+  # 如果你不打算立刻折腾搜索，可以尝试临时设为 false 绕过报错看页面
+  # flexsearch = false
+  # 确保导航树的深度足够显示三级目录
+  sectionNavHierarchyLevels = 3
   
   # Color mode
   colorMode = "auto" # auto (default), light or dark

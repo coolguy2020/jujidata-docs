@@ -98,3 +98,9 @@
 [[mounts]]
   source = "static"
   target = "static"
+
+## content
+[[mounts]]
+  source = "content/zh"
+  target = "content"
+  lang = "zh"

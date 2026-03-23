@@ -1,6 +1,6 @@
 title = "据吉文档"
 # 或者自定义域名
-baseURL = "https://coolguy2020.github.io/jujidata-docs/"
+baseURL = "https://docs.jujidata.com/jujidata-docs/zh/"
 # ✅ 建议开启此项，强制 Hugo 在生成链接时补全 baseURL
 canonifyURLs = true
 # ❌ 确保此项为 false 或删除（如果是 true，子路径引用会乱套）
@@ -18,10 +18,20 @@ summarylength = 20 # 70 (default)
 # Multilingual
 defaultContentLanguage = "zh"
 disableLanguages = ["de", "nl"]
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 copyRight = "Copyright (c) 2020-2026 据吉网"
-
+[params]
+  # Some themes use a logo parameter to put an image next to the title
+  logo = "/images/logo.png" # Path to your icon in the /static/images/ folder
+[languages.zh]
+  languageName = "Chinese"
+  contentDir = "content" # 或者是 "content/zh"
+  weight = 10
+  # 确保这个参数存在，Doks 的搜索依赖它
+  [languages.zh.params]
+    title = "据吉文档"
+    description = "AI数据标注一站式服务平台使用手册"
 [build.buildStats]
   enable = true
 
